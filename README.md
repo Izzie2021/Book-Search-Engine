@@ -1,5 +1,7 @@
-# Book Search Engine Starter Code
-This week's challenge is to create a 
+# Book Search Engine
+This week's challenge is to create a fully functioning Google Books API search engine built with a RESTful API, and refactor it to be a GraphQL API built with Apollo Server. The app will be built using the MERN stack, with a React front end, MongoDB database, and Node.js/Express.js server and API.
+
+
 
 ## User Story
 > A
